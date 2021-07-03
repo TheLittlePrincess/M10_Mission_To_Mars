@@ -10,4 +10,3 @@ Using BeautifulSoup and Splinter the goal is to scrape full-resolution images of
 ![ Style before and after sample](https://github.com/TheLittlePrincess/M10_Mission_To_Mars/blob/main/DEV%203.png)
 The usage of flask proved to be a bit challenging throughout the process. 
 ![image](https://user-images.githubusercontent.com/75752314/124365378-3feb4180-dc0d-11eb-87d6-5e1460fea54f.png)
-
